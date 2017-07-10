@@ -1,0 +1,1 @@
+SELECT * FROM sysintg.student_data;
